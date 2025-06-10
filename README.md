@@ -1,16 +1,20 @@
-## Hi there 👋
+### 👋 Hey there! I'm M Naveen
 
-<!--
-**MNaveen7810/MNaveen7810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Recent B.E. Computer Science Graduate  
+💻 Aspiring Software Developer | Tech Enthusiast  
+🌱 Currently learning: Full-Stack Development, DSA & Cloud Fundamentals  
+🚀 Passionate about building clean code & smart solutions  
+🔧 Languages: Java | Python | JavaScript  
+🌐 Exploring: Web Dev | Open Source | AI/ML
 
-Here are some ideas to get you started:
+📌 Highlights:
+- 🧠 Strong foundation in DSA and OOP  
+- 🌟 Final year project on Emotion Detection Using NAS
+- 🏆 Participated in coding contests & hackathons  
+- 📚 Self-learner & tech community explorer  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Let's Connect & Collaborate!
+[🔗 LinkedIn](www.linkedin.com/in/mnaveen7810) | [📧 Email](m.naveen7810@gmail.com)
+
+🛠️ *“Code. Learn. Repeat.”*
+

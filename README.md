@@ -4,7 +4,7 @@
 💻 Aspiring Software Developer | Tech Enthusiast  
 🌱 Currently learning: Full-Stack Development, DSA & Cloud Fundamentals  
 🚀 Passionate about building clean code & smart solutions  
-🔧 Languages: Java | Python | JavaScript  
+🔧 Languages: C | Python | JavaScript  
 🌐 Exploring: Web Dev | Open Source | AI/ML
 
 📌 Highlights:
